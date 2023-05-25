@@ -11,7 +11,7 @@
 
 **Note that the use of trained model of [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/) is begin used in this program and the `yolov3.weights` file need to be put under the `model` folder**
 
-You may download the `.weight` file [here](https://pjreddie.com/media/files/yolov3.weights).
+You can download the `.weight` file [here](https://pjreddie.com/media/files/yolov3.weights) if there is a large file problem for git.
 
 YOLO is supporting the following input image formats
 
