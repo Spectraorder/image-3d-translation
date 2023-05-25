@@ -1,7 +1,4 @@
 # image-3d-translation
-<<<<<<< HEAD
-3D photo translation development
-=======
 ## OpenCV Image Recognition
 
 ### Packages
@@ -39,4 +36,3 @@ However, YOLO's training data is very limited. It can only detect at most 100 ob
 For example, it may detect fox as dog.
 
 <img src="imgs\fox_output.png" alt="fox_output" style="zoom: 80%;" />
->>>>>>> 8bac8ea (opencv image translation)
