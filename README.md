@@ -27,7 +27,7 @@ By inputting a image with real (**not animated**) object contained, OpenCV's pac
 
 For example, using an image of a zebra would be easy to detect.
 
-<img src="imgs\zebra_output.jpg" alt="zebra_output" style="zoom: 40%;" />
+<img src="imgs\zebra_output.png" alt="zebra_output" style="zoom: 80%;" />
 
 ### Limitation
 
